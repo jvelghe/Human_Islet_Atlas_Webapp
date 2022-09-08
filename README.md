@@ -1,4 +1,4 @@
-# Human_Islet_Atlas_Webapp
+# Human Islet Atlas Webapp
 Committer: Jane Velghe <jane.velghe@student.ubc.ca>
 
 Link to the publication associated with this data
